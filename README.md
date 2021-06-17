@@ -29,12 +29,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+有关更多详细信息，请参阅[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 杰基尔主题
+您的 Pages 站点将使用您在[存储库设置](https://github.com/416902199/zgzy.github.io/settings/pages)中选择的 Jekyll 主题的布局和样式。该主题的名称保存在 Jekyll_config.yml配置文件中。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/416902199/zgzy.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 支持或联系
+使用 Pages 时遇到问题？查看我们的[文档](https://docs.github.com/categories/github-pages-basics/)或[联系支持人员](https://support.github.com/contact)，我们会帮助您解决问题。
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
