@@ -1,7 +1,7 @@
 ## 欢迎来到我的博客
 
 以下是各个文章的目录
-[nginx使用说明](zgzy.github.io/nginx.md)
+[nginx使用说明](http://zgzy.yczl.top/nginx.md)
 
 
 
