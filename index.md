@@ -2,15 +2,12 @@
 
 以下是各个文章的目录
 
-- nginx服务启动[>>>](nginx/nginx服务.md)
-- mongodb[>>>](mongodb/mongodb相关.md)
-- 搭建nodejs服务器环境[>>>](nodejs/搭建nodejs服务器环境.md)
-- 搭建oracledb服务器环境[>>>](oracledb/搭建oracledb服务器环境.md)
-
-
-###其他
-- 正则验效规则[>>>](regular/正则验效规则.md)
-- 程序员中英文词汇文档[>>>](Dictionary/程序员中英文词汇文档.md)
+- [nginx服务启动](nginx/nginx服务.md)
+- [mongodb](mongodb/mongodb相关.md)
+- [搭建nodejs服务器环境](nodejs/搭建nodejs服务器环境.md)
+- [搭建oracledb服务器环境](oracledb/搭建oracledb服务器环境.md)
+- [正则验效规则](regular/正则验效规则.md)
+- [程序员中英文词汇文档](Dictionary/程序员中英文词汇文档.md)
 
 
 
