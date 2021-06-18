@@ -2,16 +2,15 @@
 
 以下是各个文章的目录
 
-
-- linux压缩解压[>>>](nginx/nginx.md)
-- mongodb服务启动[>>>](nginx/nginx.md)
 - nginx服务启动[>>>](nginx/nginx.md)
-- n模块的使用[>>>](nginx/nginx.md)
-- 搭建nodejs服务器环境[>>>](nginx/nginx.md)
-- 搭建oracledb服务器环境[>>>](nginx/nginx.md)
-- 证照验效规则[>>>](nginx/nginx.md)
-- mongodb聚合查询[>>>](nginx/nginx.md)
-- 程序员中英文词汇文档[>>>](nginx/nginx.md)
+- mongodb[>>>](mongodb/mongodb.md)
+- 搭建nodejs服务器环境[>>>](nodejs/nodejs.md)
+- 搭建oracledb服务器环境[>>>](oracledb/oracledb.md)
+
+
+###其他
+- 正则验效规则[>>>](regular/regular.md)
+- 程序员中英文词汇文档[>>>](Dictionary/programmer_Chinese_and_English.md)
 
 
 
@@ -40,3 +39,29 @@
              被解压目标文件                         解压后的文件
 
     进入 要解压的目标文件夹，执行上面要解压的文件，并将文件进行命名
+
+### n模块的使用
+    nodejs的版本管理,几个命令就可以完成nodejs的升级操作。仅仅只有下面几个简单的步骤就可以完成：
+    1、首先安装n模块别看它名字很短，用途却很大，可以用短小精悍来形容。n模块是专门用来管理nodejs版本的。这里需要全局安装，命令如：npm install -g n
+    2、升级node.js到最新稳定版命令如：n stable
+    没错，就这么简单！！！当然，也可以利用它升级到指定版本。比如：n v10.13.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
