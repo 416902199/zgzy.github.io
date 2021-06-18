@@ -8,7 +8,7 @@
 - [搭建oracledb服务器环境](oracledb/搭建oracledb服务器环境.md)
 - [正则验效规则](regular/正则验效规则.md)
 - [程序员中英文词汇文档](Dictionary/程序员中英文词汇文档.md)
-- [程序员中英文词汇文档](Dictionary/程序员中英文词汇文档2.md)
+- [程序员中英文词汇文档2](Dictionary/程序员中英文词汇文档2.md)
 
 
 
@@ -60,12 +60,4 @@
 
 ### 测试嵌入链接2
    <video controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png"><source src="http://media.w3.org/2010/05/sintel/trailer.mp4" type="video/mp4"><source src="http://media.w3.org/2010/05/sintel/trailer.webm" type="video/webm"><source src="http://media.w3.org/2010/05/sintel/trailer.ogv" type="video/ogg"><p>Your user agent does not support the HTML5 Video element.</p></video>
-
-
-
-
-
-
-
-
 
