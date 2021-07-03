@@ -21,6 +21,7 @@
     10:下载mongodb     wget http://fastdl.mongodb.org/linux/mongodb-linux-x86_64-3.4.18.tgz
 
     11.安装mongodb     tar -zxvf mongodb-linux-x86_64-3.4.18.tgz&&mv mongodb-linux-x86_64-3.4.18 /usr/local/mongodb
+    //这里的mongodb安装是基于单节点的，如果需要3节点，不考虑此次操作，请移步看三节点的部署文档
 
     12.设置数据文件路径,建立/data/db的目录,   mkdir –p /data/db
 
